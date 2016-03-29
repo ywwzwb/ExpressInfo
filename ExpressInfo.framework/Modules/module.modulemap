@@ -1,0 +1,6 @@
+framework module ExpressInfo {
+  umbrella header "ExpressInfo.h"
+
+  export *
+  module * { export * }
+}
